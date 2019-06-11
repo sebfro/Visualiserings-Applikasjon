@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Mapbox/Examples/6_ZoomableMap/ZoomableMap.unity
+  isLoaded: 1
+  isActive: 1
